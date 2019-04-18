@@ -9,3 +9,8 @@
 - Initialized DB with test data
 - Created controller and views
 - Viewed the database
+- Customized the Details page
+- Updated the Create page
+- Updated the Edit page
+- Updated the Delete page
+- Closed database connections
