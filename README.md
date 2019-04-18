@@ -14,3 +14,9 @@
 - Updated the Edit page
 - Updated the Delete page
 - Closed database connections
+- Add column sort links
+- Add a Search box
+- Add paging to Students Index
+- Add paging to Index method
+- Add paging links
+- Create an About page
